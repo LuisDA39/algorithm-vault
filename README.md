@@ -49,10 +49,9 @@ This repository provides Python implementations of fundamental algorithms and da
 - **Knights Tour Problem**: A problem where the objective is to move a knight on a chessboard to visit each square exactly once.
 - **N Queens Problem**: A problem where the objective is to place `n` queens on a chessboard such that no two queens can attack each other.
 - **Union Find**: A data structure for tracking and merging disjoint sets.
-
-### Minimum Spanning Trees
-- **Kruskal's Algorithm**: Finds the minimum spanning tree of a graph by sorting and adding edges based on their weights.
-- **Prim's Algorithm**: Constructs a minimum spanning tree by expanding the tree from an initial vertex.
+- **Minimum Spanning Trees**
+  - **Kruskal's Algorithm**: Finds the minimum spanning tree of a graph by sorting and adding edges based on their weights.
+  - **Prim's Algorithm**: Constructs a minimum spanning tree by expanding the tree from an initial vertex.
 
 ## Getting Started
 
